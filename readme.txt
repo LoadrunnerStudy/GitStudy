@@ -1,1 +1,1 @@
-Creating a new branch is quick adn master
+Creating a new branch is quick and master
